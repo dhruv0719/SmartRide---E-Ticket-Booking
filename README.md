@@ -26,7 +26,7 @@ SmartRide is a Java-based desktop application that allows users to easily book e
 
 ## 📸 Preview
 
-[SmartRide Screenshot](output.png) 
+[SmartRide Screenshot](https://github.com/dhruv0719/SmartRide---E-Ticket-Booking/blob/main/Output.png) 
 
 ---
 
