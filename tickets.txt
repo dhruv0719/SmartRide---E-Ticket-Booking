@@ -1,0 +1,32 @@
+===== TICKET =====
+Ticket ID: 118bd096
+Passenger: Dhruv
+From: Surat To: Mumbai
+Transport: Train
+Seats: 1
+Total Price: ₹900.0
+==================
+===== TICKET =====
+Ticket ID: c11dc1d4
+Passenger: Dhruv Patil
+From: Surat To: Bengaluru
+Transport: Train
+Seats: 1
+Total Price: ₹4800.0
+==================
+===== TICKET =====
+Ticket ID: d81920c7
+Passenger: Dhruv Patil
+From: Surat To: Hyderabad
+Transport: Flight
+Seats: 1
+Total Price: ₹13000.0
+==================
+===== TICKET =====
+Ticket ID: 24322d34
+Passenger: Dhruv Patil
+From: Surat To: Bengaluru
+Transport: Flight
+Seats: 1
+Total Price: ₹16000.0
+==================
