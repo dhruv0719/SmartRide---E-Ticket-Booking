@@ -38,9 +38,11 @@ SmartRide is a Java-based desktop application that allows users to easily book e
    cd SmartRide---E-Ticket-Booking
 
 2. **Open in your IDE**
-   Open the project in IntelliJ IDEA / Eclipse / VS Code with Java Extension.
+   Open the project in VS Code with Java Extension.
+
    Ensure Java SDK 17+ is installed.
 
-3. **Run the GUI**
+4. **Run the GUI**
    Navigate to SmartRideGUI.java
+   
    Right-click and run the main method.
